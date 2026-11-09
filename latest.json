@@ -1,3 +1,3 @@
-{"version": "1.1.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.1.0.zip",
- "notes": "New sleek look (no cartoon faces), modern sounds and music (dark, phonk, lofi, hype), action from the first second, quicker first obstacles, shorter races. The old style is still available: Look = Cartoon."}
+{"version": "1.2.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.2.0.zip",
+ "notes": "Real physics engine: gravity, momentum, real collisions, spinning and tumbling racers, smoother motion. Eyes are back. First launch after updating installs one new part (takes a minute)."}
