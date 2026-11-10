@@ -1,5 +1,5 @@
 {
- "version": "1.7.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.7.0.zip",
- "notes": "AI upgrade: live commentary pop-ups during races (AI-written or built-in), AI backgrounds and AI-drawn characters (about 2 cents each, needs a billing-enabled Gemini key), \u2728 Idea can now design the whole video including art, and batches mark the most dramatic video with \ud83d\udd25. Your per-video AI limit is enforced."
+ "version": "1.8.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.8.0.zip",
+ "notes": "Retro mode: three new looks for every game (Game Boy, 8-bit, 16-bit) with pixel fonts, plus two new chiptune music styles (8-bit adventure and handheld RPG) with original 8-bit sound effects: coins, jumps, power-ups and a level-up jingle."
 }
