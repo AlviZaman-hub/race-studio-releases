@@ -1,5 +1,5 @@
 {
- "version": "2.1.1",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.1.zip",
- "notes": "Phone access fixes: QR codes now show (nothing extra to install), only addresses your phone can actually reach are listed, and a one-click 'Allow phone through firewall' button for Windows."
+ "version": "2.1.2",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.2.zip",
+ "notes": "Phone access: the firewall button now opens the Windows permission prompt directly and shows a \u2705 once your phone is allowed in."
 }
