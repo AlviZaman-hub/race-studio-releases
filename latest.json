@@ -1,5 +1,5 @@
 {
- "version": "1.4.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.4.0.zip",
- "notes": "New: Music Bounce (12 classical melodies), Shrinking Arena, Chain Reaction."
+ "version": "1.5.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.5.0.zip",
+ "notes": "New: Marble Track, Bar Chart Race (real World Bank data or your own CSV), What If\u2026? side-by-side physics (built-in scenarios or describe your own with AI). Fixed a crash when making several videos in a row."
 }
