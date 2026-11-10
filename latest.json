@@ -1,5 +1,5 @@
 {
- "version": "2.0.2",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.0.2.zip",
- "notes": "Instant pickers: every theme, look and background picture now comes ready-made with the app (and with every update), so nothing spins when you open it. Emoji Quiz now sticks to one category per video (16 categories or type your own) and never repeats answers. Your total AI spend on this computer is always shown at the top, with a breakdown in Settings."
+ "version": "2.1.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.0.zip",
+ "notes": "Phone mode: turn on Settings \u2192 Phone access, scan the QR code with your phone and type the PIN. Pick games, preview and make videos from your phone (your computer does the work), then tap \u2b07 Save to put the video on your phone. Works anywhere with the free Tailscale app."
 }
