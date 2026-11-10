@@ -1,5 +1,5 @@
 {
- "version": "2.1.2",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.2.zip",
- "notes": "Phone access: the firewall button now opens the Windows permission prompt directly and shows a \u2705 once your phone is allowed in."
+ "version": "2.1.3",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.3.zip",
+ "notes": "Faster feel: the big preview now shows a picture instantly when you change game, look, theme or background (the exact frame drops in a moment later, with a small spinner in the corner instead of darkening the screen). The preview engine also starts warming up as soon as Race Studio opens."
 }
