@@ -1,5 +1,5 @@
 {
- "version": "1.8.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.8.0.zip",
- "notes": "Retro mode: three new looks for every game (Game Boy, 8-bit, 16-bit) with pixel fonts, plus two new chiptune music styles (8-bit adventure and handheld RPG) with original 8-bit sound effects: coins, jumps, power-ups and a level-up jingle."
+ "version": "1.9.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.9.0.zip",
+ "notes": "7 new games: Retro Kart, Pixel RPG Battle, Tournament (knockout bracket), Plinko, +1 Ball, Eat & Grow, and Sand Fill. New racer presets: countries with flags. The 8-bit look also renders about 3x faster now."
 }
