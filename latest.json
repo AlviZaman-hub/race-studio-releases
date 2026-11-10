@@ -1,5 +1,5 @@
 {
- "version": "2.1.3",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.3.zip",
- "notes": "Faster feel: the big preview now shows a picture instantly when you change game, look, theme or background (the exact frame drops in a moment later, with a small spinner in the corner instead of darkening the screen). The preview engine also starts warming up as soon as Race Studio opens."
+ "version": "2.2.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.2.0.zip",
+ "notes": "Lots more to make: Obstacle Course (hammers, pistons, conveyor belts, flippers, portals, trapdoors, gears and more; every LEVEL is a new course, 6 course styles), Snakes & Ladders race, and a new Simulations section: Split & Crush, Grow Every Bounce (or shrinking circle), Ball Escape with dozens of rings, and Pi Collisions. New \ud83c\udfc6 Series: run a Country World Cup or Zodiac League across videos with a league table. Maze blocks are smaller so nobody is stuck on one wall for long."
 }
