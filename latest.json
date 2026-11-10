@@ -1,3 +1,5 @@
-{"version": "1.2.1",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.2.1.zip",
- "notes": "Works with the newest Python (3.14). Real physics, rotating racers with eyes."}
+{
+ "version": "1.3.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.3.0.zip",
+ "notes": "New: Ball Battle Royale and Emoji Quiz. Gemini AI: Idea button, Plan my week, racers from comments, AI captions (.txt next to every video). Scrollable window."
+}
