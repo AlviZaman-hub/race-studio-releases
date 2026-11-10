@@ -1,5 +1,5 @@
 {
- "version": "2.1.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.0.zip",
- "notes": "Phone mode: turn on Settings \u2192 Phone access, scan the QR code with your phone and type the PIN. Pick games, preview and make videos from your phone (your computer does the work), then tap \u2b07 Save to put the video on your phone. Works anywhere with the free Tailscale app."
+ "version": "2.1.1",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.1.1.zip",
+ "notes": "Phone access fixes: QR codes now show (nothing extra to install), only addresses your phone can actually reach are listed, and a one-click 'Allow phone through firewall' button for Windows."
 }
