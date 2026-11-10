@@ -1,5 +1,5 @@
 {
- "version": "2.0.1",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.0.1.zip",
- "notes": "Race Studio 2.0: every video now opens with a 'pick one' hook, the winning moment hits with a flash, zoom and shake, and an end card asks viewers to comment (you can turn it off under Output). Sand Fill now fills right on time. Includes everything from 1.6 to 1.9: the new browser app with live previews, AI commentary, AI art, retro looks, chiptune music and 7 new games."
+ "version": "2.0.2",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-2.0.2.zip",
+ "notes": "Instant pickers: every theme, look and background picture now comes ready-made with the app (and with every update), so nothing spins when you open it. Emoji Quiz now sticks to one category per video (16 categories or type your own) and never repeats answers. Your total AI spend on this computer is always shown at the top, with a breakdown in Settings."
 }
