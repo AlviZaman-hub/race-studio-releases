@@ -1,5 +1,5 @@
 {
- "version": "1.5.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.5.0.zip",
- "notes": "New: Marble Track, Bar Chart Race (real World Bank data or your own CSV), What If\u2026? side-by-side physics (built-in scenarios or describe your own with AI). Fixed a crash when making several videos in a row."
+ "version": "1.6.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.6.0.zip",
+ "notes": "New look: Race Studio now opens in your web browser with live previews. See every theme and background as a picture, scrub through the video, play a 6-second preview with sound, and watch your renders in a queue. AI spending is tracked with a per-video limit (Settings). \u2728 Idea now works on every game. The old window is still there as gui_classic.py."
 }
