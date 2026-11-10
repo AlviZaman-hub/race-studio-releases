@@ -1,5 +1,5 @@
 {
- "version": "1.6.0",
- "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.6.0.zip",
- "notes": "New look: Race Studio now opens in your web browser with live previews. See every theme and background as a picture, scrub through the video, play a 6-second preview with sound, and watch your renders in a queue. AI spending is tracked with a per-video limit (Settings). \u2728 Idea now works on every game. The old window is still there as gui_classic.py."
+ "version": "1.7.0",
+ "update_zip": "https://raw.githubusercontent.com/AlviZaman-hub/race-studio-releases/main/update-1.7.0.zip",
+ "notes": "AI upgrade: live commentary pop-ups during races (AI-written or built-in), AI backgrounds and AI-drawn characters (about 2 cents each, needs a billing-enabled Gemini key), \u2728 Idea can now design the whole video including art, and batches mark the most dramatic video with \ud83d\udd25. Your per-video AI limit is enforced."
 }
